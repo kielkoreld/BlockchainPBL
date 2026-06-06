@@ -1,7 +1,7 @@
 # --- 사용자 지정 제외 ---
 goal.txt
 /data/
-extension_sim/docs/
+/extension_sim/docs/
 
 # --- Python ---
 __pycache__/
