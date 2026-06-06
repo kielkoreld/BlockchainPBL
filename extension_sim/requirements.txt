@@ -1,0 +1,2 @@
+# Optional: plots only. Core simulation uses Python 3 stdlib.
+matplotlib>=3.7
